@@ -7,3 +7,5 @@ This package does nothing!
 (Thanks for visiting though :)
 
 This is commit 2 with a pull request (hopefully)
+
+Commit 3 to be directly commited to master.
