@@ -8,4 +8,4 @@ This package does nothing!
 
 This is commit 2 with a pull request (hopefully)
 
-Commit 3 to be directly commited to master.
+Commit 3 to be directly committed to master.
