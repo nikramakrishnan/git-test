@@ -11,3 +11,5 @@ This is commit 2 with a pull request (hopefully)
 Commit 3 to be directly committed to master.
 
 Some changes here too!
+
+Git shell test
