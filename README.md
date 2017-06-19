@@ -13,3 +13,6 @@ Commit 3 to be directly committed to master.
 Some changes here too!
 
 Git shell test
+
+test
+
