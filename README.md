@@ -16,3 +16,4 @@ Git shell test
 
 test
 
+These are some changes to check whether merging from a branch that is ahead but does not have this commit creates any problems.
