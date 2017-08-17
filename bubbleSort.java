@@ -11,7 +11,7 @@ public class bubbleSort {
 		System.out.println("Please input "+n+" numbers");
 		int[] nums = new int[n];
 		for (int i = 0; i < n; i++) {
-			System.out.print("Enter number "+(i+1)+": ");
+			System.out.print("Enter number  "+(i+1)+": ");
 			int ntemp = s.nextInt();
 			nums[i] = ntemp;
 		}
